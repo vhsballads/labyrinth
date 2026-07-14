@@ -8,9 +8,9 @@ layout: home
 Welcome to carcer mentis, my personal blog on [orientale](https://orientale.ca)
 
 Enjoy your stay, or don't. Think of this as a construction site, but pray that it's more reasonable than a construction site in terms of how quick things get done.
-
+<!--
 posts:
 
-- [your republic is calling you: a dichotomy of loyalty](posts/2026-07-14-the-dichotomy-of-loyalty)
+ - [your republic is calling you: a dichotomy of loyalty](soon) -->
 
 [jekyll-organization]: https://github.com/jekyll
