@@ -28,7 +28,7 @@ twitter_username: ghebreigzabhier
 github_username:  vhsballads
 
 # Build settings
-theme: minima
+theme: no-style-please
 plugins:
   - jekyll-feed
 
