@@ -11,6 +11,6 @@ Enjoy your stay, or don't. Think of this as a construction site, but pray that i
 
 posts:
 
-- [your republic is calling you: a dichotomy of loyalty](_posts/2026-07-14-the-dichotomy-of-loyalty.markdown)
+- [your republic is calling you: a dichotomy of loyalty](_posts/2026-07-14-the-dichotomy-of-loyalty)
 
 [jekyll-organization]: https://github.com/jekyll
