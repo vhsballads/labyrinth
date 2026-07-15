@@ -21,7 +21,7 @@
 title: the labyrinth
 email: sena@orientale.ca
 description: >- # this means to ignore newlines until "baseurl:"
-  welcome to carcer mentis, enjoy your stay.
+  welcome to the labyrinth, enjoy your stay.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "blog.orientale.ca" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ghebreigzabhier
