@@ -2,6 +2,7 @@
 layout: post
 title:  "The Dichotomy of Loyalty"
 date:   2024-10-04 01:00:00 -0600
+permalink: /20241004/
 categories: essays
 ---
 Your Republic Is Calling You is a novel by South Korean author Kim Young-ha published in 2006, 10 years after the release of his critically-acclaimed novel “I Have The Right To Destroy Myself”. This novel revolves around an abandoned North Korean spy known in the South as Kim Ki-yong as he navigates two difficult decisions in the span of 24 hours regarding a sudden order from Pyongyang that could change his life. We look through a dialectic lens to analyze the consequences ideological division has had on the Korean Peninsula since 1953 & the rapid changes in Korea throughout the late 20th century.
